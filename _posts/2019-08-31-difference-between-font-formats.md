@@ -7,6 +7,7 @@ comments: true
 tags:
   - sugar-free
   - lorem-ipsum
+  - lorem-ipsum
 ---
 Easy, vegan, sugar-free, gluten-free.
 
