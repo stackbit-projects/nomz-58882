@@ -5,7 +5,7 @@ description: Rich and salty chocolate heaven.
 summary: ''
 comments: true
 tags:
-  - vegan
+  - sugar-free
 ---
 Easy, vegan, sugar-free, gluten-free.
 
