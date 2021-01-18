@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: Salty Chocolate Bar
 description: What is the difference between various font formats?
 summary: What is the difference between various font formats?
 comments: true
