@@ -2,27 +2,14 @@
 layout: page
 title: About
 ---
+Hey! I'm Michal and I love creating delicious and healthy desserts.
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Every recipe is **vegan by default**. 
 
-### Features
+See tags for additional info (such as sugar-free, gluten-free, raw, etc.)
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+Enjoy your Nomz,
 
-### Screenshot
+Michał
 
-![Screenshot](screenshot.png)
+ps. [Subscribe to my newsletter](https://mindjuggling.substack.com) to learn about new recipes. You can find more stuff I do [here](https://michalkorzonek.com).
