@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Salty Chocolate Bar
-description: Salty and rich
+description: Rich and salty chocolate heaven.
 summary: What is the difference between various font formats?
 comments: true
 tags:
